@@ -45,6 +45,6 @@ document.querySelector("button.style2").addEventListener("click",function(){
 })
 
 // Part 3 Question 8
-document.querySelectorAll("partA").addEventListener("click",function(){
-    this.style.display = "none";
-})
+// document.querySelectorAll("partA").addEventListener("click",function(){
+//     this.innerHTML = "data-lightbox='gallery'" + this.innerHTML; 
+// })
